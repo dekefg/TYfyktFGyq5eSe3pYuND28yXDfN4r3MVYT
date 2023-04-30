@@ -2,6 +2,8 @@
 0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b
 
 Txn Hash	Method 	
+cfeh
+
 Block
 reaent
 0x7cff49508396820e0a7b5e10df49209cf8feb38856283ba257b9c6db7481866d	Transfer	85743046	6 secs ago	0x9b64203878f24eb0cdf55c8c6fa7d08ba0cf77e5	 IN 	 ArbDoge AI: AIDOGE Token	0 ETH	0.00010083
